@@ -1,4 +1,4 @@
 AddDefaultCharset UTF-8
 
-RewriteRule ^about?$ about.php [NC,L]
-RewriteRule ^index?$ index.php [NC,L]
+RewriteRule ^about.html?$ about.php [NC,L]
+RewriteRule ^index.html?$ index.php [NC,L]
